@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">customToast</string>
+
+    <color name="solid">#ff00</color>
+    <string name="button_name">click</string>
+    <string name="customtoast">You have clicked</string>
+</resources>
